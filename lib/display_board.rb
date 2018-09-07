@@ -5,3 +5,4 @@ def display board(board)
   puts "-----------"
   puts "  |  |  "
 end  
+
